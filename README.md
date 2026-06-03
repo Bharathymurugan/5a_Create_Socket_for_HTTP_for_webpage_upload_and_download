@@ -80,9 +80,11 @@ s.close()
 ```
 ## OUTPUT
 Client
+
 <img width="541" height="135" alt="Screenshot 2026-06-01 000329" src="https://github.com/user-attachments/assets/c0ff98e0-1130-4542-a551-e7d2af6d920f" />
 
 Server
+
 <img width="534" height="144" alt="Screenshot 2026-06-01 000357" src="https://github.com/user-attachments/assets/aa0cacbb-0f54-4c82-92f7-37802a23a5eb" />
 
 
